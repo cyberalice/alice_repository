@@ -1,0 +1,16 @@
+﻿  main.cpp
+  my_exception.cpp
+C:\Users\Alice\Desktop\RegEditor-add_comments\RegEditor\my_exception.cpp(19,44): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  registry.cpp
+  tree_view.cpp
+C:\Users\Alice\Desktop\RegEditor-add_comments\RegEditor\tree_view.cpp(287,91): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Alice\Desktop\RegEditor-add_comments\RegEditor\tree_view.cpp(291,90): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  values_list.cpp
+C:\Users\Alice\Desktop\RegEditor-add_comments\RegEditor\values_list.cpp(256,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  values_list_add_edit_multistring_value_dlg.cpp
+C:\Users\Alice\Desktop\RegEditor-add_comments\RegEditor\values_list_add_edit_multistring_value_dlg.cpp(74,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  values_list_add_edit_param_name_dlg.cpp
+  values_list_add_edit_param_value_dlg.cpp
+  values_list_choose_param_type_dlg.cpp
+  Создание кода...
+  RegEditor.vcxproj -> C:\Users\Alice\Desktop\RegEditor-add_comments\x64\Debug\RegEditor.exe
